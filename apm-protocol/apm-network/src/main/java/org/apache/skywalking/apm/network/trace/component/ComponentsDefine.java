@@ -134,4 +134,8 @@ public class ComponentsDefine {
 
     public static final OfficialComponent CASSANDRA_JAVA_DRIVER = new OfficialComponent(69, "cassandra-java-driver");
 
+    public static final OfficialComponent JODD_HTTP = new OfficialComponent(70, "JoddHttp");
+
+    public static final OfficialComponent ALIYUN_OSS = new OfficialComponent(71, "AliyunOSS");
+
 }

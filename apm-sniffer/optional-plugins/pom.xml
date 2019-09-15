@@ -48,6 +48,8 @@
         <module>zookeeper-3.4.x-plugin</module>
         <module>customize-enhance-plugin</module>
         <module>play-2.x-plugin</module>
+        <module>joddhttp-5.x-plugin</module>
+        <module>aliyun-sdk-plugins</module>
     </modules>
 
     <dependencies>
